@@ -149,7 +149,7 @@ Beginners start in **Scratch and plain HTML &amp; CSS**, where every result is v
 
 ## The team
 
-| | Role |
+| Name | Role |
 | :-- | :-- |
 | **Yunwen Eric** | Founder |
 | **Flovet Asong** | CTO |
